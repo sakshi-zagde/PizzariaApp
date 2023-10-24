@@ -1,0 +1,13 @@
+.home-container{
+    border: 1px solid #b3b3b3;
+}
+
+.pizza-img{
+    width: 80%;
+}
+
+.pizza-content{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
